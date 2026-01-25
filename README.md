@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Sai Pranav 👋
 
-<!--
-**YSaiPranavReddy/YSaiPranavReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE @ NGIT  
+🔬 AI Research Intern @ DrugParadigm  
+🧠 Working on Deep Learning for Molecular & Structural Biology  
 
-Here are some ideas to get you started:
+### 🔍 Research Interests
+- Geometric Deep Learning (GVP, Graph Transformers)
+- Diffusion Models for Proteins & Peptides
+- Structure-based Generative Models
+- Transformers & Conditional Modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **Bloom** – CNN-based Plant Disease Detection (An end-to-end AI system integrated with modern web technologies for scalable deployment.)
+- **NyayLens** - AI-powered legal research and analysis platform for legal domain ( An end-to-end AI system integrated with modern web technologies for scalable deployment.)
+
+### 🛠 Tech Stack
+- **AI/ML/DL**: PyTorch, Transformers, Diffusion, GNNs
+- **Web**: MERN Stack
+- **Database**: MySQL,MongoDB,PostgreSQL
+- **Tools**: Git, Docker, Linux
+
+📫 Reach me at: saipranavreddyy09@gmail.com
