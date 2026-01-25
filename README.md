@@ -6,13 +6,15 @@ Hi, I'm Sai Pranav
 
 ---
 ### 🌐 Connect with me
-<div style="margin: 20px 0;">
+<div>
   <a href="https://www.linkedin.com/in/sai-pranav-reddy-yerrabandla-490301361" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <img height="20" />
   <a href="https://leetcode.com/u/SaiPranavReddy_09/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="50" width="50"/>
   </a>
+  <img height="20" />
   <a href="mailto:saipranavreddyy09@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
