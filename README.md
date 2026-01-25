@@ -10,7 +10,7 @@ Hi, I'm Sai Pranav
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://leetcode.com/u/SaiPranavReddy_09/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="60" width="60"/>
 </a>
 <a href="mailto:saipranavreddyy09@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
