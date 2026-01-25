@@ -1,23 +1,42 @@
-## Hi, I'm Sai Pranav 👋
-
+Hi, I'm Sai Pranav 
 🎓 B.Tech CSE @ NGIT  
 🔬 AI Research Intern @ DrugParadigm  
-🧠 Working on Deep Learning for Molecular & Structural Biology  
+🧬 Working on geometry-aware and generative models for biological structures  
+
+---
 
 ### 🔍 Research Interests
 - Geometric Deep Learning (GVP, Graph Transformers)
 - Diffusion Models for Proteins & Peptides
-- Structure-based Generative Models
-- Transformers & Conditional Modeling
+- Structure-based Generative Modeling
+- Transformers & Conditional Architectures
 
-### 🚀 Featured Projects
-- **Bloom** – CNN-based Plant Disease Detection (An end-to-end AI system integrated with modern web technologies for scalable deployment.)
-- **NyayLens** - AI-powered legal research and analysis platform for legal domain ( An end-to-end AI system integrated with modern web technologies for scalable deployment.)
+---
+
+### 🚀 Featured Work
+- **Bloom** - CNN-based Plant Disease Detection  
+  *End-to-end ML system: model → API → web deployment*
+
+- **NyayLens** - AI-powered Legal Research Platform  
+  *RAG + ML system for legal analysis and document understanding*
+
+> I enjoy bringing together solid engineering practices with intelligent ml systems to solve meaningful problems.
+
+---
+
+### 🧠 What I Care About
+- Writing **clean, reproducible research code**
+- Bridging **theory, experiments, and deployment**
+- Learning by building — and breaking - models
+
+---
 
 ### 🛠 Tech Stack
-- **AI/ML/DL**: PyTorch, Transformers, Diffusion, GNNs
-- **Web**: MERN Stack
-- **Database**: MySQL,MongoDB,PostgreSQL
-- **Tools**: Git, Docker, Linux
+- **AI/ML/DL:** PyTorch, Transformers, Diffusion, GNNs  
+- **Web:** MERN Stack  
+- **Databases:** MySQL, MongoDB, PostgreSQL  
+- **Tools:** Git, Docker, Linux  
 
-📫 Reach me at: saipranavreddyy09@gmail.com
+---
+
+📫 Reach me at: **ysaipranavreddy09@gmail.com**
