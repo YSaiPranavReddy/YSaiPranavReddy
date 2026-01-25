@@ -2,9 +2,9 @@
 
 <p align="center">
 🎓 B.Tech CSE @ NGIT &nbsp; | &nbsp;
-🔬 AI Research Intern @ DrugParadigm &nbsp; | &nbsp;
-🧬 Geometry-aware & Generative Models for Biological Structures
+🔬 AI Research Intern @ DrugParadigm &nbsp;
 </p>
+
 <br/>
 <h3>🌐 Connect with me</h3>
 
@@ -22,6 +22,7 @@
   </a>
 </p>
 
+<br/>
 <h3>🚀 Featured Projects</h3>
 
 - **Bloom** — CNN-based Plant Disease Detection  
@@ -32,28 +33,13 @@
 
 > I enjoy bringing together solid engineering practices with intelligent ML systems to solve meaningful problems.
 
+<br/>
 <h3>🧩 Languages</h3>
-
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,sql" />
-
 <h3>🛠 Tech Stack</h3>
 
 - **AI/ML/DL:** PyTorch, Transformers, Diffusion Models, GNNs  
 - **Web:** MERN Stack  
 - **Databases:** MySQL, MongoDB, PostgreSQL  
 - **Tools:** Git, Docker, Linux  
-
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,nodejs,flask,docker,git,linux,mongodb,postgres" />
-
-<h3>🧠 What I Care About</h3>
-
-- Writing **clean, reproducible research code**  
-- Bridging **theory, experiments, and deployment**  
-- Learning by building — and breaking — models  
-
-<h3>🔍 Research Interests</h3>
-
-- Geometric Deep Learning (GVP, Graph Transformers)  
-- Diffusion Models for Proteins & Peptides  
-- Structure-based Generative Modeling  
-- Transformers & Conditional Architectures  
