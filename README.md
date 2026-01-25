@@ -1,4 +1,5 @@
 Hi, I'm Sai Pranav 
+
 🎓 B.Tech CSE @ NGIT  
 🔬 AI Research Intern @ DrugParadigm  
 🧬 Working on geometry-aware and generative models for biological structures  
