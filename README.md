@@ -5,15 +5,18 @@ Hi, I'm Sai Pranav
 🧬 Working on geometry-aware and generative models for biological structures  
 
 ---
-
-### 🔍 Research Interests
-- Geometric Deep Learning (GVP, Graph Transformers)
-- Diffusion Models for Proteins & Peptides
-- Structure-based Generative Modeling
-- Transformers & Conditional Architectures
+### 🌐 Connect with me
+<a href="https://www.linkedin.com/in/sai-pranav-reddy-yerrabandla-490301361" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://leetcode.com/u/SaiPranavReddy_09/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=leetcode" />
+</a>
+<a href="mailto:saipranavreddyy09@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
 ---
-
 ### 🚀 Featured Work
 - **Bloom** - CNN-based Plant Disease Detection  
   *End-to-end ML system: model → API → web deployment*
@@ -24,11 +27,8 @@ Hi, I'm Sai Pranav
 > I enjoy bringing together solid engineering practices with intelligent ml systems to solve meaningful problems.
 
 ---
-
-### 🧠 What I Care About
-- Writing **clean, reproducible research code**
-- Bridging **theory, experiments, and deployment**
-- Learning by building — and breaking - models
+### 🧩 Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,sql" />
 
 ---
 
@@ -38,6 +38,18 @@ Hi, I'm Sai Pranav
 - **Databases:** MySQL, MongoDB, PostgreSQL  
 - **Tools:** Git, Docker, Linux  
 
----
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,nodejs,flask,docker,git,linux,mongodb,postgres" />
 
-📫 Reach me at: **ysaipranavreddy09@gmail.com**
+---
+### 🧠 What I Care About
+- Writing **clean, reproducible research code**
+- Bridging **theory, experiments, and deployment**
+- Learning by building — and breaking - models
+
+---
+### 🔍 Research Interests
+- Deep Learning (GVP, Graph Transformers)
+- Diffusion Models for Proteins & Peptides
+- Structure-based Generative Modeling
+- Transformers & Conditional Architectures
+---
