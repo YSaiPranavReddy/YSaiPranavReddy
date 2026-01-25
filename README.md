@@ -1,59 +1,59 @@
-Hi, I'm Sai Pranav 
+<h1 align="center">Hi 👋, I'm Sai Pranav</h1>
 
-🎓 B.Tech CSE @ NGIT  
-🔬 AI Research Intern @ DrugParadigm  
-🧬 Working on geometry-aware and generative models for biological structures  
+<p align="center">
+🎓 B.Tech CSE @ NGIT &nbsp; | &nbsp;
+🔬 AI Research Intern @ DrugParadigm &nbsp; | &nbsp;
+🧬 Geometry-aware & Generative Models for Biological Structures
+</p>
+<br/>
+<h3>🌐 Connect with me</h3>
 
----
-### 🌐 Connect with me
-<div>
-  <a href="https://www.linkedin.com/in/sai-pranav-reddy-yerrabandla-490301361" target="_blank">
+<p>
+  <a href="https://www.linkedin.com/in/sai-pranav-reddy-yerrabandla-490301361">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <img height="30" />
-  <a href="https://leetcode.com/u/SaiPranavReddy_09/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="50" width="50"/>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/SaiPranavReddy_09/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="48" />
   </a>
-  <img height="30" />
+  &nbsp;&nbsp;
   <a href="mailto:saipranavreddyy09@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-</div>
+</p>
 
----
-### 🚀 Featured Work
-- **Bloom** - CNN-based Plant Disease Detection  
+<h3>🚀 Featured Projects</h3>
+
+- **Bloom** — CNN-based Plant Disease Detection  
   *End-to-end ML system: model → API → web deployment*
 
-- **NyayLens** - AI-powered Legal Research Platform  
+- **NyayLens** — AI-powered Legal Research Platform  
   *RAG + ML system for legal analysis and document understanding*
 
-> I enjoy bringing together solid engineering practices with intelligent ml systems to solve meaningful problems.
+> I enjoy bringing together solid engineering practices with intelligent ML systems to solve meaningful problems.
 
----
-### 🧩 Languages
+<h3>🧩 Languages</h3>
+
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,sql" />
 
----
+<h3>🛠 Tech Stack</h3>
 
-### 🛠 Tech Stack
-- **AI/ML/DL:** PyTorch, Transformers, Diffusion, GNNs  
+- **AI/ML/DL:** PyTorch, Transformers, Diffusion Models, GNNs  
 - **Web:** MERN Stack  
 - **Databases:** MySQL, MongoDB, PostgreSQL  
 - **Tools:** Git, Docker, Linux  
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,nodejs,flask,docker,git,linux,mongodb,postgres" />
 
----
-### 🧠 What I Care About
-- Writing **clean, reproducible research code**
-- Bridging **theory, experiments, and deployment**
-- Learning by building — and breaking - models
+<h3>🧠 What I Care About</h3>
 
----
-### 🔍 Research Interests
-- Deep Learning (GVP, Graph Transformers)
-- Diffusion Models for Proteins & Peptides
-- Structure-based Generative Modeling
-- Transformers & Conditional Architectures
----
+- Writing **clean, reproducible research code**  
+- Bridging **theory, experiments, and deployment**  
+- Learning by building — and breaking — models  
+
+<h3>🔍 Research Interests</h3>
+
+- Geometric Deep Learning (GVP, Graph Transformers)  
+- Diffusion Models for Proteins & Peptides  
+- Structure-based Generative Modeling  
+- Transformers & Conditional Architectures  
