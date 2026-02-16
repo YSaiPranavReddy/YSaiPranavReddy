@@ -3,7 +3,7 @@
 
 ---
 
-I design and build intelligent systems that combine strong engineering fundamentals with advanced machine learning techniques. My work spans graph neural networks, transformer-based systems, and full-stack ML deployment.
+I design and build intelligent systems that combine strong engineering fundamentals with advanced machine learning techniques. My work spans graph neural networks, transformer-based systems, and full-stack development.
 
 ---
 
