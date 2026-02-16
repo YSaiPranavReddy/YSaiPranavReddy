@@ -1,45 +1,46 @@
-<h1 align="center">Hi 👋, I'm Sai Pranav</h1>
+# Sai Pranav Reddy
 
-<p align="center">
-🎓 B.Tech CSE @ NGIT &nbsp; | &nbsp;
-🔬 AI Research Intern @ DrugParadigm &nbsp;
-</p>
+AI Research Intern @ DrugParadigm | ML Engineer | Backend Developer  
 
-<br/>
-<h3>🌐 Connect with me</h3>
+I build structure-aware machine learning systems, focusing on Graph Neural Networks, Diffusion Models, and Transformer-based architectures. My work spans research-driven model development and production-grade ML deployment.
 
-<p>
-  <a href="https://www.linkedin.com/in/sai-pranav-reddy-yerrabandla-490301361">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/SaiPranavReddy_09/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="48" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:saipranavreddyy09@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+---
 
-<br/>
-<h3>🚀 Featured Projects</h3>
+## 🔬 Research & Technical Focus
 
-- **Bloom** — CNN-based Plant Disease Detection  
-  *End-to-end ML system: model → API → web deployment*
+- Graph Neural Networks (GNNs), GVP Architectures  
+- Diffusion Models for structure-conditioned generation  
+- Transformer-based retrieval and QA systems (BERT, T5)  
+- Large-scale dataset engineering & feature design  
+- ML system deployment and optimization  
 
-- **NyayLens** — AI-powered Legal Research Platform  
-  *RAG + ML system for legal analysis and document understanding*
+---
 
-> I enjoy bringing together solid engineering practices with intelligent ML systems to solve meaningful problems.
+## 🚀 Selected Projects
 
-<br/>
-<h3>🧩 Languages</h3>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,sql" />
-<h3>🛠 Tech Stack</h3>
+### Bloom – AI-Powered Plant Disease Detection  
+End-to-end CNN system trained on 87k+ images across 38 classes.  
+Achieved **97% accuracy** and deployed using Vercel + Render + HuggingFace.
 
-- **AI/ML/DL:** PyTorch, Transformers, Diffusion Models, GNNs  
-- **Web:** MERN Stack  
-- **Databases:** MySQL, MongoDB, PostgreSQL  
-- **Tools:** Git, Docker, Linux  
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,nodejs,flask,docker,git,linux,mongodb,postgres" />
+[Live Demo](#) | [Repository](#)
+
+### NyayLens – Transformer-Based Legal QA System  
+BERT-based semantic retrieval with fine-tuned T5 for context-aware answer generation over domain-specific corpora.
+
+[Live Demo](#) | [Repository](#)
+
+---
+
+## 🛠 Technical Stack
+
+**Languages:** Python, Java, C  
+**ML & AI:** PyTorch, TensorFlow, Transformers, GNNs, Diffusion Models  
+**Backend:** Node.js, Express.js, REST APIs  
+**Systems:** Docker, Linux (CLI), Git  
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://linkedin.com/in/sai-pranav-reddy  
+- Email: saipranavreddy09@gmail.com
