@@ -1,6 +1,7 @@
-# Sai Pranav Reddy
+<h1 align="center">Sai Pranav Reddy</h1>
+<h3 align="center">AI Research Intern @ DrugParadigm | Software Engineer | ML Engineer</h3>
 
-AI Research Intern @ DrugParadigm | Software Engineer | ML Engineer  
+---
 
 I design and build intelligent systems that combine strong engineering fundamentals with advanced machine learning techniques. My work spans graph neural networks, transformer-based systems, and full-stack ML deployment.
 
@@ -8,9 +9,9 @@ I design and build intelligent systems that combine strong engineering fundament
 
 ## 💡 What I Work On
 
-- Machine Learning & AI Systems (GNNs, Transformers, Diffusion Models)
+- Machine Learning & AI Systems (GNNs, Transformers, Diffusion Models etc...)
 - Backend Development & REST APIs
-- End-to-End ML Deployment (model → API → frontend)
+- End-to-End ML Deployment (AI -> model → API → MERN)
 - Scalable system design with clean engineering practices
 
 ---
@@ -35,9 +36,9 @@ Transformer-based document retrieval and answer generation system using BERT emb
 ## 🛠 Technical Stack
 
 **Programming:** Python, Java, C  
-**Backend:** Node.js, Express.js, REST APIs  , FlaskAPI , FastAPI
-**Databases:** SQL, MongoDB, PostgreSQL
-**Machine Learning:** PyTorch, TensorFlow, Transformers, GNNs, GCNs , CNNs
+**Backend:** Node.js, Express.js, REST APIs  , FlaskAPI , FastAPI  
+**Databases:** SQL, MongoDB, PostgreSQL  
+**Machine Learning:** PyTorch, TensorFlow, Transformers, GNNs, GCNs , CNNs  
 **Systems & Tools:** Docker, Linux (CLI), Git  
 
 ---
