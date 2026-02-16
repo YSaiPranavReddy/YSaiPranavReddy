@@ -3,13 +3,13 @@
 
 ---
 
-I design and build intelligent systems that combine strong engineering fundamentals with advanced machine learning techniques. My work spans graph neural networks, transformer-based systems, and full-stack development.
+I design production-ready intelligent systems that combine strong software engineering fundamentals with advanced machine learning architectures. My work spans graph neural networks, transformer-based systems, and full-stack development.
 
 ---
 
 ## 💡 What I Work On
 
-- Machine Learning & AI Systems (GNNs, Transformers, Diffusion Models etc...)
+- Machine Learning & AI Systems (Transformers, Diffusion Models , Graph-based architectures, Neural Networks)
 - Backend Development & REST APIs
 - End-to-End ML Deployment (AI -> model → API → MERN)
 - Scalable system design with clean engineering practices
@@ -35,8 +35,8 @@ Transformer-based document retrieval and answer generation system using BERT emb
 
 ## 🛠 Technical Stack
 
-**Programming:** Python, Java, C  
-**Backend:** Node.js, Express.js, REST APIs  , FlaskAPI , FastAPI  
+**Programming:** Python, Java, JavaScript, C  
+**Full Stack Development:** Node.js, Express.js, React.js, HTML, CSS, REST APIs, FlaskAPI, FastAPI, GSAP, Three.js
 **Databases:** SQL, MongoDB, PostgreSQL  
 **Machine Learning:** PyTorch, TensorFlow, Transformers, GNNs, GCNs , CNNs  
 **Systems & Tools:** Docker, Linux (CLI), Git  
