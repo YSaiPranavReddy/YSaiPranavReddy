@@ -1,31 +1,32 @@
 # Sai Pranav Reddy
 
-AI Research Intern @ DrugParadigm | ML Engineer | Backend Developer  
+AI Research Intern @ DrugParadigm | Software Engineer | ML Engineer  
 
-I build structure-aware machine learning systems, focusing on Graph Neural Networks, Diffusion Models, and Transformer-based architectures. My work spans research-driven model development and production-grade ML deployment.
+I design and build intelligent systems that combine strong engineering fundamentals with advanced machine learning techniques. My work spans graph neural networks, transformer-based systems, and full-stack ML deployment.
 
 ---
 
-## 🔬 Research & Technical Focus
+## 💡 What I Work On
 
-- Graph Neural Networks (GNNs), GVP Architectures  
-- Diffusion Models for structure-conditioned generation  
-- Transformer-based retrieval and QA systems (BERT, T5)  
-- Large-scale dataset engineering & feature design  
-- ML system deployment and optimization  
+- Machine Learning & AI Systems (GNNs, Transformers, Diffusion Models)
+- Backend Development & REST APIs
+- End-to-End ML Deployment (model → API → frontend)
+- Scalable system design with clean engineering practices
 
 ---
 
 ## 🚀 Selected Projects
 
 ### Bloom – AI-Powered Plant Disease Detection  
-End-to-end CNN system trained on 87k+ images across 38 classes.  
-Achieved **97% accuracy** and deployed using Vercel + Render + HuggingFace.
+End-to-end ML system trained on 87k+ images across 38 classes.  
+Achieved **97% accuracy** and deployed using Vercel (frontend), Render (API), and HuggingFace (model hosting).
 
 [Live Demo](#) | [Repository](#)
 
+---
+
 ### NyayLens – Transformer-Based Legal QA System  
-BERT-based semantic retrieval with fine-tuned T5 for context-aware answer generation over domain-specific corpora.
+Transformer-based document retrieval and answer generation system using BERT embeddings and fine-tuned T5 models.
 
 [Live Demo](#) | [Repository](#)
 
@@ -33,14 +34,15 @@ BERT-based semantic retrieval with fine-tuned T5 for context-aware answer genera
 
 ## 🛠 Technical Stack
 
-**Languages:** Python, Java, C  
-**ML & AI:** PyTorch, TensorFlow, Transformers, GNNs, Diffusion Models  
-**Backend:** Node.js, Express.js, REST APIs  
-**Systems:** Docker, Linux (CLI), Git  
+**Programming:** Python, Java, C  
+**Backend:** Node.js, Express.js, REST APIs  , FlaskAPI , FastAPI
+**Databases:** SQL, MongoDB, PostgreSQL
+**Machine Learning:** PyTorch, TensorFlow, Transformers, GNNs, GCNs , CNNs
+**Systems & Tools:** Docker, Linux (CLI), Git  
 
 ---
 
 ## 📫 Connect
 
-- LinkedIn: https://linkedin.com/in/sai-pranav-reddy  
+- LinkedIn: [https://linkedin.com/in/sai-pranav-reddy ](https://www.linkedin.com/in/sai-pranav-reddy-yerrabandla-490301361/) 
 - Email: saipranavreddy09@gmail.com
