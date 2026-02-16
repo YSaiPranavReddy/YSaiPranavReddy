@@ -36,7 +36,7 @@ Transformer-based document retrieval and answer generation system using BERT emb
 ## 🛠 Technical Stack
 
 **Programming:** Python, Java, JavaScript, C  
-**Full Stack Development:** Node.js, Express.js, React.js, HTML, CSS, REST APIs, FlaskAPI, FastAPI, GSAP, Three.js
+**Full Stack Development:** Node.js, Express.js, React.js, HTML, CSS, REST APIs, FlaskAPI, FastAPI, GSAP, Three.js    
 **Databases:** SQL, MongoDB, PostgreSQL  
 **Machine Learning:** PyTorch, TensorFlow, Transformers, GNNs, GCNs , CNNs  
 **Systems & Tools:** Docker, Linux (CLI), Git  
