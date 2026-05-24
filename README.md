@@ -29,7 +29,7 @@ Achieved **97% accuracy** and deployed using Vercel (frontend), Render (API), an
 ### NyayLens – Transformer-Based Legal QA System  
 Transformer-based document retrieval and answer generation system using BERT embeddings and fine-tuned T5 models.
 
-[Live Demo](#) | [Repository](#)
+[Live Demo](https://nyay-lens.vercel.app/) | [Repository](#https://github.com/YSaiPranavReddy/NyayLens)
 
 ---
 
