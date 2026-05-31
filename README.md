@@ -25,6 +25,7 @@ scoring that distinguishes project-proven skills from listed skills.
 
 [Repository](https://github.com/YSaiPranavReddy/NyayLens/)
 
+---
 
 ### NyayLens – Transformer-Based Legal QA System  
 Transformer-based document retrieval and answer generation system using BERT embeddings and fine-tuned T5 models.
