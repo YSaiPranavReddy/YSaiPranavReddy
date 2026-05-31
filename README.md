@@ -18,18 +18,26 @@ I design production-ready intelligent systems that combine strong software engin
 
 ## 🚀 Selected Projects
 
-### Bloom – AI-Powered Plant Disease Detection  
-End-to-end ML system trained on 87k+ images across 38 classes.  
-Achieved **97% accuracy** and deployed using Vercel (frontend), Render (API), and HuggingFace (model hosting).
+### HireGraph - Multi-Agent AI Hiring Assistant
+Developed a multi-agent AI hiring assistant with 7 specialized LangGraph agents each running a different LLM (Groq
+8B for parallel screening, Groq 70B for ranking, Gemini 2.5 Flash for critique) with evidence-based candidate
+scoring that distinguishes project-proven skills from listed skills.
 
-[Live Demo](#) | [Repository](#)
+[Repository](https://github.com/YSaiPranavReddy/NyayLens/)
 
----
 
 ### NyayLens – Transformer-Based Legal QA System  
 Transformer-based document retrieval and answer generation system using BERT embeddings and fine-tuned T5 models.
 
-[Live Demo](https://nyay-lens.vercel.app/) | [Repository](#https://github.com/YSaiPranavReddy/NyayLens)
+[Live Demo](https://nyay-lens.vercel.app/) | [Repository](https://github.com/YSaiPranavReddy/NyayLens/)
+
+---
+
+### Bloom – AI-Powered Plant Disease Detection  
+End-to-end ML system trained on 87k+ images across 38 classes.  
+Achieved **97% accuracy** and deployed using Vercel (frontend), Render (API), and HuggingFace (model hosting).
+
+[Live Demo](https://bloom--plant-disease-detector.vercel.app/) | [Repository](https://github.com/YSaiPranavReddy/bloom-project-ml-implementation)
 
 ---
 
