@@ -1,5 +1,5 @@
 <h1 align="center">Sai Pranav Reddy</h1>
-<h3 align="center">AI Research Intern @ DrugParadigm | Software Engineer | ML Engineer</h3>
+<h3 align="center">AI Research Intern @ DrugParadigm | Software Engineer | AI/ML Engineer</h3>
 
 ---
 
